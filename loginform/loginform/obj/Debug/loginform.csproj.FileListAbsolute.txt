@@ -1,0 +1,14 @@
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\loginform.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\MainWindow.baml
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\MainWindow.g.cs
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\App.g.cs
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\loginform_MarkupCompile.cache
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\loginform.g.resources
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\loginform.Properties.Resources.resources
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\loginform.csproj.GenerateResource.cache
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\loginform.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\New folder\loginform\loginform\bin\Debug\loginform.exe.config
+C:\Users\natal\Desktop\New folder\loginform\loginform\bin\Debug\loginform.exe
+C:\Users\natal\Desktop\New folder\loginform\loginform\bin\Debug\loginform.pdb
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\loginform.exe
+C:\Users\natal\Desktop\New folder\loginform\loginform\obj\Debug\loginform.pdb
